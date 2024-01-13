@@ -81,7 +81,7 @@
         compressionRatio(stringLength, stringLengthASCII);
     }
 ```
-## Входные данные:
+## Выходные данные:
 
 [Скрин_1](https://github.com/alisasuslova/TestTaskJava/blob/main/res_1.JPG)
 
