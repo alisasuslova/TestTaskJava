@@ -83,4 +83,5 @@
     ```
 
 ## Входные данные:
-
+[Скрин_1](https://github.com/alisasuslova/TestTaskJava/blob/main/res_1.JPG)
+[Скрин_2](https://github.com/alisasuslova/TestTaskJava/blob/main/res_2.JPG)
