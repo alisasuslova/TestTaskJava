@@ -65,7 +65,7 @@
 ```
 6. К методу `compressionRatio()` написаланесколько автотестов:
 ```java
- @Test
+    @Test
     public void compressionRatio50() {
         int stringLength = convertToString(createArray((int) (Math.random() * (1000 - 1)), 1, 50));
         int stringLengthASCII = convertToASCII(createArray((int) (Math.random() * (1000 - 1)), 1, 50));
@@ -80,8 +80,10 @@
         int stringLengthASCII = convertToASCII(createArray(900, 100, 999));
         compressionRatio(stringLength, stringLengthASCII);
     }
-    ```
-
+```
 ## Входные данные:
+
 [Скрин_1](https://github.com/alisasuslova/TestTaskJava/blob/main/res_1.JPG)
+
 [Скрин_2](https://github.com/alisasuslova/TestTaskJava/blob/main/res_2.JPG)
+
